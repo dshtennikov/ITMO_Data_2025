@@ -7,6 +7,7 @@ https://colab.research.google.com/drive/1rSd-3zba3aQJnexYnb2vsPLW0aGS6cqo?usp=sh
 **2nd**
 Потренеровал модель
 C:\Python38\HW8>C:\Python38\python.exe C:\Python38\HW8\model_training.py
+Но модель получилась очч большой, 640 МБ посему не выложил
 3rd
 Запустил Стримлит
 C:\Python38\Scripts\streamlit.exe run app.py
